@@ -14,8 +14,21 @@ header img {
 }
 
 article img { 
-  max-width: 100%; 
+  max-width: 75%; 
 } 
+
+aside li {
+  display: inline-block; 
+  list-style: none; 
+}
+
+aside a {
+  font-weight: bold;
+}
+
+footer {
+  border-radius: 5rem;
+}
 
 footer h4 {
   text-align: center; 
