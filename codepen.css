@@ -17,3 +17,10 @@ article img {
   max-width: 100%; 
 } 
 
+footer h4 {
+  text-align: center; 
+}
+
+header, footer, aside, article, section {
+  padding: 0.42rem;
+}
